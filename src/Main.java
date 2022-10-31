@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-// Задание 1
+           // Задание 1
         System.out.println("Задание 1");
         int clientOS = 1;
         if (clientOS == 0) {
@@ -9,7 +9,7 @@ public class Main {
             System.out.println("Установите версию приложения для Android по ссылке");
         }
 
-        // Задание 2
+          // Задание 2
         System.out.println("Задание 2");
         int clientOS1 = 1;
         int clientDeviceYear = 2015;
@@ -24,7 +24,7 @@ public class Main {
             System.out.println("Установите облегченную версию приложения для Android по ссылке");
         }
 
-        // Задание 3
+           // Задание 3
         System.out.println("Задание 3");
         int year = 2021;
         if (year % 400 ==0) {
@@ -36,7 +36,7 @@ public class Main {
         }
 
 
-        // Задание 4
+           // Задание 4
         System.out.println("Задание 4");
         int deliveryDistance = 95;
         int time = 1;
@@ -53,7 +53,7 @@ public class Main {
         }
 
 
-        // Задание 5
+           // Задание 5
         System.out.println("Задание 5");
         int monthNumber = 12;
         switch (monthNumber) {
